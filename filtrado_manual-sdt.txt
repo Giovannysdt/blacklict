@@ -25,4 +25,4 @@
 ||playboy.es^
 ||playboy.com^
 ||playboy.*^
-||playboy.com.ex^
+||playboy.com.mx^
